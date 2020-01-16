@@ -1,0 +1,25 @@
+body{
+	 background: linear-gradient(-90deg, red, yellow);
+}
+div {
+	background-color: white;
+	margin: 2;
+	padding: 25;
+	border-radius: 20px;
+}
+input{
+	padding: 5;
+	margin: 10px;
+	border-radius: 5px;
+	width: 300px;
+}
+input.hover{
+	background-color: gold;
+}
+button{
+	padding: 5;
+	margin: 10px;
+	border-radius: 10px;
+	width: 250px;
+	background-color: #008CBA;
+}
